@@ -5,7 +5,7 @@ Ext.define('My-First-App.classsystem.Pessoa', {
     ],
     name: 'Lucas',
     city: 'Louveira',
-    MyMethodHere: function (){ 
+    conversar: function (){ 
         console.log('Pessoa conversando....');
     }
 });

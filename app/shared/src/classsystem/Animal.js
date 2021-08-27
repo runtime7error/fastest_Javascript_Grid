@@ -1,3 +1,3 @@
-Ext.define('My-First-App.classystem.Animal', {
+Ext.define('My-First-App.classsystem.Animal', {
     especie: null
 });
